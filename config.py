@@ -19,7 +19,7 @@ APP_ID = 23768039
 API_HASH = "a62451ba0f30d5365f44bd2941b18009"
 
 #Your db channel Id
-CHANNEL_ID = -1001851944346
+CHANNEL_ID = -1002119854163
 
 #OWNER ID
 OWNER_ID = 6559694372
@@ -32,7 +32,7 @@ DB_URI = "mongodb+srv://justarandombututkarsh:lFeSRNWirLTUtV0V@cluster0.1izrd1i.
 DB_NAME = "filesharexbot"
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
+FORCE_SUB_CHANNEL = "-1002123377534"
 
 TG_BOT_WORKERS = 1
 
