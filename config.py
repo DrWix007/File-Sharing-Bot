@@ -34,7 +34,7 @@ DB_NAME = "filesharexbot"
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = -1002123377534
 
-TG_BOT_WORKERS = 1
+TG_BOT_WORKERS = 4
 
 #start message
 START_MSG = "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
